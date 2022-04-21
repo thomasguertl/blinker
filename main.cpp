@@ -1,3 +1,4 @@
+// Hallo
 #include "gui.h"
 
 #include <QApplication>
